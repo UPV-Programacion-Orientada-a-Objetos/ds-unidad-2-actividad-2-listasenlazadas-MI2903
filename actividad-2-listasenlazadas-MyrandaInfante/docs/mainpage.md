@@ -521,7 +521,7 @@ Salida esperada: [H][O][L][C]
 
 ## Autor
 
-**Osvaldo Fabian Ramiro Balboa** (@FabiRamiro)
+**Myranda Belen Infante Castillo** (@MyrandaInfante)
 
 Universidad: Universidad Politecnica de Victoria
 Materia: Estructuras de Datos
@@ -531,7 +531,7 @@ Fecha: Noviembre 2025
 
 ## Licencia
 
-Proyecto academico desarrollado como parte del curso de Estructuras de Datos.
+Proyecto  desarrollado como parte del curso de Estructuras de Datos.
 
 **Restricciones:**
 
