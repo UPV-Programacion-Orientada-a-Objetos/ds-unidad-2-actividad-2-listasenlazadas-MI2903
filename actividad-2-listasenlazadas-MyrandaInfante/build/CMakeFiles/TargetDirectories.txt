@@ -1,0 +1,4 @@
+C:/Users/Myri7/OneDrive/Escritorio/ds-unidad-2-actividad-2-listasenlazadas-MyrandaInfante/build/CMakeFiles/PRT7Decoder.dir
+C:/Users/Myri7/OneDrive/Escritorio/ds-unidad-2-actividad-2-listasenlazadas-MyrandaInfante/build/CMakeFiles/docs.dir
+C:/Users/Myri7/OneDrive/Escritorio/ds-unidad-2-actividad-2-listasenlazadas-MyrandaInfante/build/CMakeFiles/edit_cache.dir
+C:/Users/Myri7/OneDrive/Escritorio/ds-unidad-2-actividad-2-listasenlazadas-MyrandaInfante/build/CMakeFiles/rebuild_cache.dir
